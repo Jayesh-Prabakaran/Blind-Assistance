@@ -1,1 +1,1 @@
-# Blind-Assistance
+# Training dataset for Indian Currency classifier.
